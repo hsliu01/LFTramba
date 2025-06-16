@@ -80,7 +80,9 @@ The results will be saved in:
 
 ## **Notice**
 - Please modify the file loading and saving paths as needed to match your specific setup.  
-- For multiple model SR images used in `img_combine.py`, refer to the provided download link.
+- The pretrained model weights can be downloaded from the link below:
+
+🔗 [Click here to download](https://drive.google.com/file/d/1dkasatZmbp2ltiFoRT04OraAmri0g8eF/view?usp=drive_link).
   
 ## 🙏 Acknowledgements
 
