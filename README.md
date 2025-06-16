@@ -23,7 +23,7 @@ pip install causal-conv1d==1.1.1 mamba-ssm==1.0.1
 
 ## **Training**
 ### **1. Prepare Training Data**
-We utilize five Light Field  benchmarks from **BasicLFSR**:
+We utilize five Light Field  benchmarks from **BasicLFSR**[BasicLFSR](https://github.com/ZhengyuLiang24/BasicLFSR):
 - **EPFL**
 - **HCInew**
 - **HCIold**
