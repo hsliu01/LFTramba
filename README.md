@@ -1,5 +1,5 @@
 
-# **Light Field Super-Resolution**
+# **LFTramba: Comprehensive Information Learning for Light Field Image Super-Resolution via A Hybrid Transformer-Mamba Framework**
 
 ## **Requirements**
 To set up the environment, install the following dependencies:
