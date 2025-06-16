@@ -97,7 +97,8 @@ If you find this work helpful, please consider citing the following paper:
     year      = {2025},
     pages     = {1137-1147}
 }
-  
+```
+
 ## 🙏 Acknowledgements
 
 This code borrows heavily from [BigEPIT](https://github.com/chaowentao/BigEPIT) and [LFMamba](https://github.com/stanley-313/LFMamba) repository. Thanks a lot.
