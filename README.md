@@ -83,6 +83,20 @@ The results will be saved in:
 - The pretrained model weights can be downloaded from the link below:
 
 🔗 [Click here to download](https://drive.google.com/file/d/1dkasatZmbp2ltiFoRT04OraAmri0g8eF/view?usp=drive_link).
+
+## 📖 Citation
+
+If you find this work helpful, please consider citing the following paper:
+
+```bibtex
+@InProceedings{Liu_2025_CVPR,
+    author    = {Liu, Haosong and Zhu, Xiancheng and Zeng, Huanqiang and Zhu, Jianqing and Shi, Yifan and Chen, Jing and Hou, Junhui},
+    title     = {LFTramba: Comprehensive Information Learning for Light Field Image Super-Resolution via A Hybrid Transformer-Mamba Framework},
+    booktitle = {Proceedings of the Computer Vision and Pattern Recognition Conference (CVPR) Workshops},
+    month     = {June},
+    year      = {2025},
+    pages     = {1137-1147}
+}
   
 ## 🙏 Acknowledgements
 
