@@ -81,3 +81,12 @@ The results will be saved in:
 ## **Notice**
 - Please modify the file loading and saving paths as needed to match your specific setup.  
 - For multiple model SR images used in `img_combine.py`, refer to the provided download link.
+  
+## 🙏 Acknowledgements
+
+This code borrows heavily from [BigEPIT](https://github.com/chaowentao/BigEPIT) and [LFMamba](https://github.com/stanley-313/LFMamba) repository. Thanks a lot.
+
+If you have any questions, please pull an Issue and feel free to contact me at:
+
+- 📧 hsliu@stu.hqu.edu.cn  
+
