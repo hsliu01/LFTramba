@@ -1,6 +1,16 @@
 
 # **LFTramba: Comprehensive Information Learning for Light Field Image Super-Resolution via A Hybrid Transformer-Mamba Framework**
 
+## 📰 News
+
+✅ **Jun 10, 2025**: This repository contains the official PyTorch implementation of  
+**"LFTramba: Comprehensive Information Learning for Light Field Image Super-Resolution via A Hybrid Transformer-Mamba Framework"**,  
+which achieved  🥉 **3st place** in the **NTIRE 2025 Light-Field Super-Resolution Track 1**.
+
+✅ **Jun 16, 2025**: This method has been **accepted to the NTIRE 2025 Workshop**.  
+👉 [Click here to view the paper (PDF)](https://openaccess.thecvf.com/content/CVPR2025W/NTIRE/html/Wang_NTIRE_2025_Challenge_on_Light_Field_Image_Super-Resolution_Methods_and_CVPRW_2025_paper.html)
+
+
 ## **Requirements**
 To set up the environment, install the following dependencies:
 
