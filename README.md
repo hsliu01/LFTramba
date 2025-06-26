@@ -89,7 +89,8 @@ The results will be saved in:
 ---
 
 ## **Notice**
-- Please modify the file loading and saving paths as needed to match your specific setup.  
+- Please modify the file loading and saving paths as needed to match your specific setup.
+- For reproducing **LFTramba-tiny**, please refer to the settings described in the [paper](https://openaccess.thecvf.com/content/CVPR2025W/NTIRE/html/Liu_LFTramba_Comprehensive_Information_Learning_for_Light_Field_Image_Super-Resolution_via_CVPRW_2025_paper.html) and adjust the number of network layers accordingly.
 - The pretrained model weights can be downloaded from the link below:
 
 🔗 [Click here to download](https://drive.google.com/drive/folders/1e6egLNUk2qidbdlIJ4YzX1z92TjiY1G6?usp=drive_link).
