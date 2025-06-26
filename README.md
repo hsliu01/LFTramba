@@ -92,7 +92,7 @@ The results will be saved in:
 - Please modify the file loading and saving paths as needed to match your specific setup.  
 - The pretrained model weights can be downloaded from the link below:
 
-🔗 [Click here to download](https://drive.google.com/file/d/1dkasatZmbp2ltiFoRT04OraAmri0g8eF/view?usp=drive_link).
+🔗 [Click here to download](https://drive.google.com/drive/folders/1e6egLNUk2qidbdlIJ4YzX1z92TjiY1G6?usp=drive_link).
 
 ## 📖 Citation
 
